@@ -1,7 +1,7 @@
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=620&height=45&lines=Building+distributed+backends+%26+agentic+AI;Python+%C2%B7+FastAPI+%C2%B7+LangGraph+%C2%B7+pgvector;LeetCode+Knight+%E2%80%94+1870%2B+rating%2C+1100%2B+solved" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=700&height=60&lines=Building+distributed+backends+%26+agentic+AI;Python+%C2%B7+FastAPI+%C2%B7+LangGraph+%C2%B7+pgvector;LeetCode+Knight+%E2%80%94+1870%2B+rating%2C+1100%2B+solved;Passionate+Developer+%C2%B7+Building+Real-World+Apps+with+Flutter;Strong+Problem+Solver" alt="Typing animation"/>
 </p>
 
 

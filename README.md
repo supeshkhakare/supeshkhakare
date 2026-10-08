@@ -1,7 +1,7 @@
 ## Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" style="vertical-align: middle" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=620&height=45&lines=Passionate+Developer+%C2%B7+Building+Real-World+Apps+with+Flutter;Strong+DSA+Problem+Solver" alt="Typing animation"/>
+ <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1000&center=true&vCenter=true&width=620&height=45&lines=Passionate+Developer+%7C+Building+Real-World+Apps+with+Flutter;Strong+DSA+Problem+Solver" alt="Typing SVG" />
 </p>
 
 
